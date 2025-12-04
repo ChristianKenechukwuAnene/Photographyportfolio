@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/Firstportfolio-clean/', // must match your repo name //
+  base: '/Photographyportfolio/', // must match your repo name //
   plugins: [react()],
 })
