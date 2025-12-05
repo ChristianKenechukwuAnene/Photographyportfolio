@@ -12,7 +12,7 @@ function Blog1Page(){
 
    <div className="blog1-container">
       <header className="blog1-header">
-        <h1>My Blog</h1>
+        <h1>Coffee Ad Blog</h1>
       </header>
 
   

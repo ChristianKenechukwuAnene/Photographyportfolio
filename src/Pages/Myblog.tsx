@@ -37,7 +37,7 @@ function Myblog(){
               <Link> – uses React Router to navigate to the full article page (in this case /blog1). */}
   
           <div className="blog-content">
-            <h2>Welcome to my videography project blog!</h2>
+            <h2>Coffee Ad blog!</h2>
             <p>
             This project explores the creative and technical process behind producing 
             a short advertisement centered around the transformative power of morning coffee.
