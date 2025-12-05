@@ -9,7 +9,7 @@ import chris from '../assets/Chris.png';
 import pash from'../assets/Pash.jpg';
 import chris_1 from'../assets/Chris_1.jpg';
 import bash from'../assets/Bash.jpg';
-import Photo from'../assets/Photo.jpg';
+import photo from'../assets/Photo.jpg';
 import { Link } from 'react-router-dom';
 
 
@@ -165,25 +165,25 @@ function Home() {
           {/* Project Grid */}
         <div className="projects-grid">
           <div className="project-card">
-            <img src={pash} alt="Pash"/>
+            <img src={pash} alt="pash"/>
             <h3>My Passion</h3>
             <Link to="lasta">Know More →</Link>
           </div>
 
           <div className="project-card">
-            <img src={chris_1} alt="Chris_1"/>
+            <img src={chris_1} alt="chris_1"/>
             <h3>Headshot</h3>
             <Link to="smart">Know More →</Link>
           </div>
 
           <div className="project-card">
-            <img src={bash} alt="Bash"/>
+            <img src={bash} alt="bash"/>
             <h3>Aesthetic shot</h3>
             <Link to="/puma">Know More →</Link>
           </div>
 
           <div className="project-card">
-            <img src={Photo} alt="Photo"/>
+            <img src={photo} alt="photo"/>
             <h3>Photography</h3>
             <Link to="photo">Know More →</Link>
           </div>
