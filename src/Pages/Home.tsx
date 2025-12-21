@@ -6,9 +6,9 @@
 
 import keecee from '../assets/Keecee.png';                                    
 import chris from '../assets/Chris.png';
-import pash from'../assets/Pash.jpg';
-import chris_1 from'../assets/Chris_1.jpg';
-import bash from'../assets/Bash.jpg';
+import pash from'../assets/Pash.png';
+import chris_1 from'../assets/Chris_1.png';
+import bash from'../assets/Bash.png';
 import photo from'../assets/Photo.jpg';
 import { Link } from 'react-router-dom';
 
