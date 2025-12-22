@@ -9,7 +9,7 @@ import chris from '../assets/Chris.png';
 import pash from'../assets/Pash.png';
 import chris_1 from'../assets/Chris_1.png';
 import bash from'../assets/Bash.png';
-import photo from'../assets/Photo.jpg';
+import photo from'../assets/Photo.png';
 import { Link } from 'react-router-dom';
 
 

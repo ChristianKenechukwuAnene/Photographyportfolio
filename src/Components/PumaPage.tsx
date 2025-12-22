@@ -1,6 +1,6 @@
 //import React from 'react';
 import { Link } from "react-router-dom";
-import bash from'../assets/Bash.jpg';
+import bash from'../assets/Bash.png';
 import './PumaPage.css';
 
 

@@ -1,7 +1,7 @@
-import bash from'../assets/Bash.jpg';
-import chris_1 from'../assets/Chris_1.jpg';
-import pash from'../assets/Pash.jpg';
-import Photo1 from'../assets/Photo.jpg';
+import bash from'../assets/Bash.png';
+import chris_1 from'../assets/Chris_1.png';
+import pash from'../assets/Pash.png';
+import Photo1 from'../assets/Photo.png';
 import { Link } from "react-router-dom";
 import './Projects.css'; // Import the CSS file
 

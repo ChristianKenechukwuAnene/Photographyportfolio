@@ -1,6 +1,6 @@
 //import React from 'react';
 import { Link } from "react-router-dom";
-import pash from'../assets/Pash.jpg';
+import pash from'../assets/Pash.png'; 
 import './LastaPage.css';
 
 

@@ -23,13 +23,16 @@
 }
 
 .lasta-hero img{
- width: 80%;
+ width: var(--max-width);
+ max-width: 94%;
  background: #25332a;
- margin-left: 8rem;
+ margin-left: 20rem;
  margin-top: 2rem;
+ padding: 8px;
  border-radius: 8px;
  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
 }
+
 .lasta-hero h1{
     text-align: center;
     color: rgb(0, 209, 125);

@@ -1,6 +1,6 @@
 //import React from 'react';
 import { Link } from "react-router-dom";
-import chris_1 from'../assets/Chris_1.jpg';
+import chris_1 from'../assets/Chris_1.png';
 import './SmartPage.css';
 
 
