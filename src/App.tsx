@@ -15,6 +15,7 @@ import Contact from './Pages/Contact';
 import LastaPage from "./Components/LastaPage"; // Components detailed page...
 import PumaPage from "./Components/PumaPage";
 import SmartPage from "./Components/SmartPage";
+import UnitedPage from "./Components/UnitedPage";
 import PhotoPage from "./Components/PhotoPage";
 import Blog1Page from "./Components/Blog1Page";
 import Blog2Page from "./Components/Blog2Page";
@@ -65,6 +66,7 @@ function App() {
         <Route path="/lasta" element={<LastaPage />} />
         <Route path="/puma" element={<PumaPage />} />
         <Route path="/smart" element={<SmartPage />} />
+        <Route path="/united" element={<UnitedPage />} />
         <Route path="/photo" element={<PhotoPage />} />
         <Route path="/blog1" element={<Blog1Page />} />
        <Route path="/blog2" element={<Blog2Page />} />

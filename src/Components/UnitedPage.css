@@ -1,34 +1,39 @@
-.puma-page{
+.united-page{
   width: 1200px; /*  prevents content from being too wide on big screens */
   margin: 0 auto;
 }
  /* Hero Section */
-.puma-header {
+.united-header {
   background-color: rgba(54, 82, 69, 0.4);
   background-size: cover;
-  padding: 50px;
+  padding: 30px;
   text-align: center;
   color: white;
   border-radius: 10px;
 }
 
-.puma-header h1 {
+.united-header h1 {
   font-family: "Oswald", Impact, sans-serif;
   font-size: 42px;
+
 }
 
+.content h4 {
+  font-size: 1.2rem;
+  margin: 0 6px 0;
+}
+
+
+  
 
 .media-wrap {
   width: var(--max-width);
   max-width: 94%;
   background: #25332a;
   padding: 8px;
-  margin-top: 2rem;
   border-radius: 8px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
 }
-
-
 
 
 .container h2{
@@ -42,17 +47,24 @@ color: #1db954;
 
 
 .content{
+font-size:1rem;
 line-height:1.7;
 color: aliceblue;
 }
 
-.puma-page a:hover{
-  color: #d9ff00;;
-}
-
-
 
 .content p{ margin:0 0 14px 0 }
+
+
+.back{
+display:inline-block;
+margin-top:12px;
+text-decoration:none;
+color: #1db954;
+}
+.united-page a:hover{
+  color: #d9ff00;;
+}
 
 
 @media(min-width:900px){
@@ -76,4 +88,12 @@ color: aliceblue;
 }
 .cta-Rights h4{
   color: rgb(152, 84, 84);
+  
+  text-decoration: none;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.project_file-btn:hover {
+  opacity: 0.8;
 }

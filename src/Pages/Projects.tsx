@@ -1,6 +1,7 @@
 import bash from'../assets/Bash.png';
 import chris_1 from'../assets/Chris_1.png';
 import pash from'../assets/Pash.png';
+import united from'../assets/United.png';
 import Photo1 from'../assets/Photo.png';
 import { Link } from "react-router-dom";
 import './Projects.css'; // Import the CSS file
@@ -125,6 +126,26 @@ function Projects(){
         <div className="service-img">
           <img
             src={Photo1} alt="photo1"/>
+        </div>
+      </section>
+
+      {/* Service 4 */}
+      <section className="service">
+        <div className="service-text">
+          <h2>Designing Harmony: Interactive Art and the Pursuit of Social Sustainability</h2>
+          <p>
+           In contemporary discourse, sustainability is often associated with environmental
+            protection and resource management. However, true sustainability extends beyond
+             ecological systems; it includes social structures, emotional wellbeing, and
+              equitable participation. Social sustainability asks an essential question:
+               how can societies create environments where individuals feel valued, included,
+                and connected? You Are a Note responds to this question through interactive design. 
+             </p>
+             <Link to="/united">Know More </Link>
+        </div>
+        <div className="service-img">
+          <img
+            src={united} alt="United"/>
         </div>
       </section>
       </div>
